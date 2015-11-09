@@ -37,11 +37,20 @@ $_LANG['payssionsofort_desc'] = 'SOFORT Banking is a real-time online banking pa
 $_LANG['payssiontrustpay'] = 'European bank transfer (via Payssion)';
 $_LANG['payssiontrustpay_desc'] = 'European bank transfer, including BULGARIA, CROATIA, CZECH REPUBLIC, DENMARK, ESTONIA, FINLAND, GREECE, HUNGARY, LATVIA, LITHUANIA, NORWAY, ROMANIA, SLOVAKIA, SLOVENIA, SWEDEN, TURKEY.';
 
+$_LANG['payssion7elevenmy'] = '7­eleven Malaysia (via Payssion)';
+$_LANG['payssion7elevenmy_desc'] = 'Pay with 7­eleven Malaysia.';
+
 $_LANG['payssionenets'] = 'eNETS Debit Singapore (via Payssion)';
 $_LANG['payssionenets_desc'] = 'You can pay with your Singapore bank account through eNETS.';
 
-$_LANG['payssionmaybank2u'] = 'Maybank2u Malaysia (via Payssion)';
-$_LANG['payssionmaybank2u_desc'] = 'Pay with your Maybank2u bank account.';
+$_LANG['payssionfpxmy'] = 'MyClear FPX Malaysia (via Payssion)';
+$_LANG['payssionfpxmy_desc'] = 'You can pay with MyClear FPX Malaysia.';
+
+$_LANG['payssionmaybank2umy'] = 'Maybank2u Malaysia (via Payssion)';
+$_LANG['payssionmaybank2umy_desc'] = 'Pay with your Maybank2u bank account.';
+
+$_LANG['payssionmolpay'] = 'MOLPay (via Payssion)';
+$_LANG['payssionmolpay_desc'] = 'Pay with MOLPay.';
 
 $_LANG['payssionpoliau'] = 'Australia bank transfer';
 $_LANG['payssionpoliau_desc'] = 'Pay with your Australia bank account.';
@@ -49,13 +58,5 @@ $_LANG['payssionpoliau_desc'] = 'Pay with your Australia bank account.';
 $_LANG['payssionpolinz'] = 'Australia bank transfer';
 $_LANG['payssionpolinz_desc'] = 'Pay with your New Zealand bank account.';
 
-$_LANG['payssionenets'] = 'eNETS Debit Singapore (via Payssion)';
-$_LANG['payssionenets_desc'] = 'You can pay with your Singapore bank account through eNETS.';
-
-$_LANG['payssionenets'] = 'eNETS Debit Singapore (via Payssion)';
-$_LANG['payssionenets_desc'] = 'You can pay with your Singapore bank account through eNETS.';
-
-$_LANG['payssionenets'] = 'eNETS Debit Singapore (via Payssion)';
-$_LANG['payssionenets_desc'] = 'You can pay with your Singapore bank account through eNETS.';
 
 ?>
