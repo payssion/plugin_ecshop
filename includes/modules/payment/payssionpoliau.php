@@ -48,9 +48,9 @@ if (isset($set_modules) && $set_modules == TRUE)
 }
 
 require_once(realpath(dirname(__FILE__)) . "/payssion/payssion.php");
-class payssionsofort extends payssion {
-	protected $pm_id = 'sofort';
-	protected $title = 'SOFORT';
+class payssionpoliau extends payssion {
+	protected $pm_id = 'poli_au';
+	protected $title = 'Australia bank transfer';
 }
 
 ?>
