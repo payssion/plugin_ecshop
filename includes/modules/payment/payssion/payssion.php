@@ -82,7 +82,8 @@ class payssion
         		'payer_ref'     => '',
         		'payer_name'    => '',
         		'country'       => '',
-        		'payer_email'   => ''
+        		'payer_email'   => '',
+        		'extra' => print_r($order, true)
         );
         $msg = $this->generateSignature($parameter, $this->pm_id, $this->secret_key);
         $parameter['api_sig'] = md5($msg);
