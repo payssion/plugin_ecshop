@@ -58,5 +58,14 @@ $_LANG['payssionpoliau_desc'] = 'Pay with your Australia bank account.';
 $_LANG['payssionpolinz'] = 'Australia bank transfer';
 $_LANG['payssionpolinz_desc'] = 'Pay with your New Zealand bank account.';
 
+$_LANG['payssionboletobr'] = 'Boleto';
+$_LANG['payssionboletobr_desc'] = 'Pay with Boleto.';
+
+$_LANG['payssionqiwi'] = 'QIWI';
+$_LANG['payssionqiwi_desc'] = 'Pay with QIWI.';
+
+$_LANG['payssionwebmoney'] = 'WebMoney';
+$_LANG['payssionwebmoney_desc'] = 'Pay with WebMoney.';
+
 
 ?>
