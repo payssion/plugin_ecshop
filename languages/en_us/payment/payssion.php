@@ -29,7 +29,7 @@ $_LANG['payssion_api_key'] = 'API Key';
 $_LANG['payssion_secret_key'] = 'Secret Key';
 $_LANG['pay_button'] = 'Pay';
 $_LANG['payssion'] = '<img src="view/image/payssion/payssion.png" alt="Payssion" title="Payssion" />';
-$_LANG['payssion_desc'] = 'Payssion是一家全球支付公司，主要提供本地化支付解决方案，目前支付方式可以覆盖全球大部分国家，如俄罗斯的QIWI，巴西的Boleto，中东的Cashu等。';
+$_LANG['payssion_desc'] = 'Payssion is a global payment service provider.';
 
 $_LANG['payssionsofort'] = 'Sofort (via Payssion)';
 $_LANG['payssionsofort_desc'] = 'SOFORT Banking is a real-time online banking payment service available to customers who have a bank account in Germany, Austria, Belgium or the Netherlands.';
