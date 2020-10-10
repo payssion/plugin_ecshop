@@ -61,6 +61,9 @@ $_LANG['payssionpolinz_desc'] = 'Pay with your New Zealand bank account.';
 $_LANG['payssionboletobr'] = 'Boleto (via Payssion)';
 $_LANG['payssionboletobr_desc'] = 'Pay with Boleto.';
 
+$_LANG['payssionitaubr'] = 'Banco Itaú (via Payssion)';
+$_LANG['payssionitaubr_desc'] = 'Pay with Banco Itaú.';
+
 $_LANG['payssionqiwi'] = 'QIWI (via Payssion)';
 $_LANG['payssionqiwi_desc'] = 'Pay with QIWI.';
 

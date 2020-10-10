@@ -31,8 +31,8 @@ class payssion
 	
 	protected $pm_id = '';
 	protected $title = '';
-	protected $api_key = 'aba89d0d4a90a8d9';
-	protected $secret_key = '5c36b03248193816f0d14f2efb114006';
+	protected $api_key = 'your app api_key';
+	protected $secret_key = 'your app secret_key';
 
     /**
      * 构造函数
